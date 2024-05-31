@@ -20,6 +20,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasAmorim03&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
