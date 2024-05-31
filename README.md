@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente fazendo bacharelado em Ciência da Computação<br>👯 Busco experiência e capacitação<br>🤝 Busco ajuda em iniciar no ramo da programação<br>🌱 Atualmente estudando Lógica de Programação<br>⚡ Adoro analisar e resolver problemas
+🔭 Atualmente fazendo bacharelado em Ciência da Computação;<br>👯 Busco experiência e capacitação;<br>🤝 Busco ajuda em iniciar no ramo da programação;<br>🌱 Atualmente estudando Lógica de Programação;<br>⚡ Adoro analisar e resolver problemas.
 
 
 ## 🌐 Socials:
