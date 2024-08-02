@@ -16,7 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=LucasAmorim03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true)  ```![ ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/99be242e-d46b-4bc4-9613-14e47a73c61d)
-
+![](https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
