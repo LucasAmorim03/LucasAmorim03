@@ -17,6 +17,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/46543a04-53f0-478d-8190-cc16bfee34f3)
 
 ---
 
