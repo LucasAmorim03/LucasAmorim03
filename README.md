@@ -22,7 +22,8 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </td>
 <td>
-<img src="URL_DA_SUA_IMAGEM" alt="Sua Imagem" style="width: 100px;">
+<img src="![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/e92e0b69-1c9c-4597-92e3-3afed9f42157)
+" alt="Sua Imagem" style="width: 100px;">
 </td>
 </tr>
 </table>
