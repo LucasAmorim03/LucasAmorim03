@@ -16,11 +16,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=LucasAmorim03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-<div style="text-align: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="display: inline-block; vertical-align: middle;">
-  <img src="![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/909c9952-9587-4a59-9eea-c2a07c893d16)
-" alt="Minha Imagem" style="display: inline-block; vertical-align: middle; width: 100px;">
-</div>
+<table>
+<tr>
+<td>
+<img src="https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</td>
+<td>
+<img src="URL_DA_SUA_IMAGEM" alt="Sua Imagem" style="width: 100px;">
+</td>
+</tr>
+</table>
 
 ---
 
