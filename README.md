@@ -16,14 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=LucasAmorim03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-### 🔝 Top Contributed Repo
-<div style="text-align: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="display: inline-block; vertical-align: middle;">
-  <img src="[URL_DA_SUA_IMAGEM](https://cdn.discordapp.com/attachments/1232845015236083805/1269014288874602626/ezgif.com-animated-gif-maker_1.gif?ex=66ae8527&is=66ad33a7&hm=a0c30ff481a499e468cf7cfa7840dc73013bb59974476f87ac7d2d676069e56c&
-)" alt="Sua Imagem" style="display: inline-block; vertical-align: middle; width: 100px;">
-</div>
-
-
+![](https://github-contributor-stats.vercel.app/api?username=LucasAmorim03&limit=5&theme=radical&combine_all_yearly_contributions=true)  ```![ ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/99be242e-d46b-4bc4-9613-14e47a73c61d)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
