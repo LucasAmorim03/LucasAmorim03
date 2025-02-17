@@ -8,7 +8,7 @@ Currently pursuing my degree and developing my skills.
 🚀 **Seeking experience and growth**  
 Looking for opportunities to apply my knowledge and grow professionally.
 
-📚 **Studying Python ( *(Currently learning Java)***  
+📚 **Studying Python (Currently learning Java)**  
 Deepening my studies in Python. ✨
 
 ## Technologies I Know
