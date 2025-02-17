@@ -40,6 +40,6 @@ Deepening my studies in Python. ✨
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
+##[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAmorim03&rank_icon=percentile)
