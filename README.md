@@ -23,7 +23,6 @@ Deepening my studies in Python. ✨
 
 - **Tools & Technologies**:  
   [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
 - **Database & Learning**:  
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
