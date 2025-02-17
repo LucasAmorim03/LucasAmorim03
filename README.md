@@ -1,70 +1,50 @@
-<h1 align="center">Hi 👋! My name is Lucas Santos Amorim do Carmo</h1>
-
-###
-
-<p align="center">🎓 --Bachelor's in Computer Science-- <br>Currently pursuing my degree and developing my skills.<br><br>🚀 --Seeking experience and growth--  <br>Looking for opportunities to apply my knowledge and grow professionally.<br><br>📚 --Studying Programming Logic-- <br>Deepening my studies in programming and development.</p>
-
-###
-
-<h3 align="center">💻 Technologies I know -</h3>
-
-###
-
-<h4 align="center">Programming Languages:</h4>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-###
+# 🚀 Hi, I'm Lucas Santos Amorim do Carmo - Software Developer
 
-<h4 align="center">🔧 Development Tools:</h4>
+## About Me
 
-###
+✨ 🎓 **Bachelor's in Computer Science**  
+Currently pursuing my degree and developing my skills.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-</div>
+🚀 **Seeking experience and growth**  
+Looking for opportunities to apply my knowledge and grow professionally.
 
-###
+📚 **Studying Python ( *(Currently learning Java)***  
+Deepening my studies in Python. ✨
 
-<h4 align="center">🎨  Design:</h4>
+## Technologies I Know
 
-###
+💻 Here are some of the technologies I’m familiar with:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-</div>
+- **Programming Languages**:  
+  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  
+- **Web Development**:  
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-###
+- **Tools & Technologies**:  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
-<h3 align="center">Contact:<br>Feel free to reach out to me through the following channels:</h3>
+- **Database & Learning**:  
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+  *(Currently learning databases)*
 
-###
+## Creative Projects
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+🎨 Here are some of my most creative and innovative projects:
 
-###
+1. [Project 1](https://github.com/LucasAmorim03/validador_gerador_cpf): CPF Validator and Generator - A simple yet effective CPF validation and generation tool, designed to handle Brazilian CPF numbers efficiently. It demonstrates my ability to build small but functional utilities. I plan to expand this project and add more features over time.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAmorim03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAmorim03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Let's Create Something Amazing! 💫
 
-###
+💬 Want to collaborate on a creative and innovative project? I'm always open to new ideas and partnerships. Reach out to me, and let's discuss how we can create something extraordinary together! ✉️
 
-<br clear="both">
+## Let's Connect!
 
-<img src="https://raw.githubusercontent.com/LucasAmorim03/LucasAmorim03/output/snake.svg" alt="Snake animation" />
+[![LinkedIn](https://img.shields.io/badge/-Lucas%20Amorim-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
 
-###
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&rank_icon=percentile)
