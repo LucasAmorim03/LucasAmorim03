@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
-
-# 🚀 Hi, I'm Lucas Santos Amorim do Carmo - Software Developer
+# 🐧 Hi, I'm Lucas Santos Amorim do Carmo - Software Developer
 
 ## About Me
 
@@ -45,6 +41,6 @@ Deepening my studies in Python. ✨
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-Lucas%20Amorim-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&rank_icon=percentile)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAmorim03&rank_icon=percentile)
