@@ -40,8 +40,4 @@ Deepening my studies in Python. ✨
 
 ## Let's Connect!
 
-🚀 I'm always eager to collaborate and exchange ideas. If you want to work on a creative, innovative project or simply have a chat, feel free to reach out to me. Together, we can achieve great things! ✨
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucasamorim12/)](https://www.linkedin.com/in/lucasamorim12/)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAmorim03&rank_icon=percentile)
